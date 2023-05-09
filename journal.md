@@ -5,4 +5,5 @@
 
 
 -Si prova a modificare il file, insrendo ad esempio una componente: 
-	Introduction Section
+	Introduction Sectio
+Manfredi Alberti, 2023 CAMHHHHHHHH
